@@ -11,3 +11,4 @@ bangun dasar bangunan
 
 bangun warkop;
 menjual harta
+jual sapi
