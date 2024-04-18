@@ -7,3 +7,8 @@ Rencana warkop
 
 Bangunan warkop; 
 bangun dasar bangunan
+
+
+bangun warkop;
+menjual harta
+jual sapi
